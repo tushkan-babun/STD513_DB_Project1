@@ -162,9 +162,9 @@ ALTER TABLE `professor`
 ALTER TABLE `semester`
   ADD PRIMARY KEY (`semester_id`);
 
---
+---
 -- Indexes for table `team`
---
+---
 ALTER TABLE `team`
   ADD PRIMARY KEY (`team_id`);
 
